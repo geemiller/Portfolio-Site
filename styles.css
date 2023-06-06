@@ -12,7 +12,14 @@ li {
     list-style-type: none;
 }
 
+#buttons {
+    list-style-type: none;
+}
+
 #github {
-    max-width: 100%;
-    height: auto;
+    -webkit-filter: invert(44%) sepia(15%) saturate(1557%) hue-rotate(224deg) brightness(94%) contrast(94%);
+}
+
+#github:hover {
+    -webkit-filter: none;
 }
