@@ -29,7 +29,8 @@ li {
 }
 
 .top-nav:hover {
-    color: #926ec2;
+    color: #8e5fed;
+    scale: 1.1;
 }
 
 #nav {
@@ -46,7 +47,7 @@ li {
 }
 
 .button {
-    -webkit-filter: invert(44%) sepia(15%) saturate(1557%) hue-rotate(224deg) brightness(94%) contrast(94%);
+    -webkit-filter: invert(45%) sepia(80%) saturate(3911%) hue-rotate(232deg) brightness(93%) contrast(101%);
     width: 50px;
     margin-right: 5px;
 }
@@ -54,10 +55,11 @@ li {
 .button:hover {
     -webkit-filter: none;
     cursor: pointer;
+    scale: 1.1;
 }
 
 h1 {
-    color: #926ec2;
+    color: #8e5fed;
     font-weight: 500;
     font-size: 40px;
 }
