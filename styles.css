@@ -18,10 +18,12 @@ li {
 
 .button {
     -webkit-filter: invert(44%) sepia(15%) saturate(1557%) hue-rotate(224deg) brightness(94%) contrast(94%);
+    width: 50px;
 }
 
 .button:hover {
     -webkit-filter: none;
+    cursor: pointer;
 }
 
 h1 {
