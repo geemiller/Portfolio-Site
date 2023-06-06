@@ -24,6 +24,10 @@ li {
     font-size: 20px;
 }
 
+#email {
+    padding-top: 2.5%;
+}
+
 .top-nav:hover {
     color: #926ec2;
 }
