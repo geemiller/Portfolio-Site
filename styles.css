@@ -5,11 +5,16 @@ body {
 }
 
 li {
-    color: white;
+    color: #e1d8ed
 }
 
  #nav-items {
   list-style-type: none;
+  font-size: 18px;
+}
+
+.top-nav:hover {
+    color: #926ec2;
 }
 
 #buttons {
@@ -27,9 +32,16 @@ li {
 }
 
 h1 {
-    color: #8460b3;
+    color: #926ec2;
     font-weight: 500;
     font-size: 40px;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 15px;
+    color: #e1d8ed;
+    margin-top: -2%;
 }
 
 
