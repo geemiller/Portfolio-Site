@@ -161,3 +161,12 @@ h2 {
     width: 200px;
 }
 
+#about {
+    position: absolute;
+    margin-left: 25%;
+    margin-top: -19%;
+
+}
+#aboutMe {
+    color: white;
+}
