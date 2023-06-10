@@ -163,8 +163,10 @@ h2 {
 
 #about {
     position: absolute;
-    margin-left: 25%;
+    margin-left: 20%;
     margin-top: -19%;
+    font-size: 19px;
+    width: 65%;
 
 }
 #aboutMe {
