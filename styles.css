@@ -195,6 +195,45 @@ li {
 
 #theTemple {
     margin-top: 8%;
-    background-color: #FFF;
-    width: 500px;
+    background-color: #151515;
+    width: 520px;
+    height: 450px;
+}
+
+#theTemple:hover #theTempleVideo {
+    -webkit-filter: brightness(100%) contrast(90%);
+}
+
+#theTemple:hover {
+    cursor: pointer;
+}
+
+#theTemple:hover #theTempleH1 {
+    color: white;
+}
+
+#theTemple:hover #arrow {
+    -webkit-filter: none;
+}
+
+#theTempleH1 {
+    font-size: 30px;
+    margin-left: 4%;
+}
+
+#theTempleTxt {
+    color: white;
+    padding-top: 1%;
+    margin-left: 4%;
+}
+
+.star {
+    z-index: -1;
+}
+
+#arrow {
+    -webkit-filter: invert(45%) sepia(80%) saturate(3911%) hue-rotate(232deg) brightness(93%) contrast(101%);
+    float: right;
+    margin-right: 4%;
+    margin-top: -11%;
 }
