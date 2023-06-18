@@ -200,8 +200,8 @@ li {
     height: 450px;
 }
 
-#theTemple:hover #theTempleVideo {
-    -webkit-filter: brightness(100%) contrast(90%);
+#theTemple:hover .video {
+    -webkit-filter: brightness(110%) contrast(90%);
 }
 
 #theTemple:hover {
@@ -212,7 +212,7 @@ li {
     color: white;
 }
 
-#theTemple:hover #arrow {
+#theTemple:hover .arrow {
     -webkit-filter: none;
 }
 
@@ -231,9 +231,12 @@ li {
     z-index: -1;
 }
 
-#arrow {
+.arrow {
     -webkit-filter: invert(45%) sepia(80%) saturate(3911%) hue-rotate(232deg) brightness(93%) contrast(101%);
     float: right;
     margin-right: 4%;
     margin-top: -11%;
 }
+
+
+
