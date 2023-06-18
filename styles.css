@@ -190,3 +190,11 @@ li {
 #uni {
     font-size: 20px;
 }
+
+/* css for projects page */
+
+#theTemple {
+    margin-top: 8%;
+    background-color: #FFF;
+    width: 500px;
+}
