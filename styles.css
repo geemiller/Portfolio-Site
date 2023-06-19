@@ -191,6 +191,10 @@ li {
     font-size: 20px;
 }
 
+#uniText {
+    color: white;
+}
+
 /* css for projects page */
 
 #theTemple {
@@ -238,5 +242,12 @@ li {
     margin-top: -11%;
 }
 
+.link {
+    z-index: 1;
+}
 
-
+#itch, #theTempleINFO {
+    color: #8e5fed;
+    text-decoration: underline;
+    margin-top: 10%;
+}
