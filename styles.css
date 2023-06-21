@@ -68,7 +68,7 @@ li {
 }
 
 .top-nav {
-    margin-right: 30%;
+    margin-right: 40%;
     font-size: 20px;
 }
 
@@ -90,7 +90,6 @@ li {
   display: flex;
   flex-direction: row;
   float: right;
-  margin-right: 5%;
   margin-top: -6%;
 }
 
@@ -200,32 +199,46 @@ li {
 #theTemple {
     margin-top: 8%;
     background-color: #151515;
-    width: 520px;
-    height: 450px;
+    width: 550px;
+    height: 470px;
+
 }
 
-#theTemple:hover .video {
-    -webkit-filter: brightness(110%) contrast(90%);
+#eerieEscape {
+    margin-top: 8%;
+    background-color: #151515;
+    width: 550px;
+    height: 470px;
 }
 
-#theTemple:hover {
+#projects {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.project:hover .video {
+    -webkit-filter: brightness(120%) contrast(90%);
+}
+
+
+.project:hover .projectH1 {
+    color: white;
     cursor: pointer;
 }
 
-#theTemple:hover #theTempleH1 {
-    color: white;
-}
-
-#theTemple:hover .arrow {
+.project:hover .arrow {
     -webkit-filter: none;
 }
 
-#theTempleH1 {
+.projectH1 {
+    color: #8e5fed;
+    font-weight: 500;
     font-size: 30px;
     margin-left: 4%;
 }
 
-#theTempleTxt {
+.projectTxt {
     color: white;
     padding-top: 1%;
     margin-left: 4%;
@@ -246,8 +259,14 @@ li {
     z-index: 1;
 }
 
-#itch, #theTempleINFO {
+/* the temple page */
+
+#itch, .projectINFO {
     color: #8e5fed;
     text-decoration: underline;
     margin-top: 10%;
+}
+
+.itch:hover {
+    color: white; 
 }
