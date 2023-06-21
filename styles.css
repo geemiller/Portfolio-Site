@@ -142,9 +142,9 @@ li {
 
 .square {
     border: 2px solid #8e5fed;
-    width: 200px;
+    width: 220px;
     position: absolute;
-    margin-top: -18%;
+    margin-top: -20%;
     z-index: -1;
     box-shadow: 0 0 3px 1px #8e5fed;
 }
@@ -159,12 +159,12 @@ li {
 
 #me2 {
     opacity: 0;
-    width: 200px;
+    width: 220px;
 }
 
 #me3 {
     opacity: 0;
-    width: 200px;
+    width: 220px;
 }
 
 #about {
