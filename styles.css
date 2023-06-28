@@ -2,8 +2,10 @@
 
 html {
     background: radial-gradient(ellipse at bottom, #161622 0%, #090a0f 100%);
+    width: 100%;
+    height: 100%;
   }
-  
+
   #stars, #stars2, #stars3 {
     width: 100%;
     height: 100%;
