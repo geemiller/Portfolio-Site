@@ -277,7 +277,7 @@ li {
     z-index: 1;
 }
 
-/* the temple page */
+/* individual project pages */
 
 #itch, .projectINFO {
     color: #8e5fed;
@@ -287,4 +287,18 @@ li {
 
 .itch:hover {
     color: white; 
+}
+
+.projectVid {
+    margin-top: 8%;
+}
+
+/* the kings meadow page */
+
+#TKMvid {
+    width: 100%;
+}
+
+#web {
+    float: right;
 }
