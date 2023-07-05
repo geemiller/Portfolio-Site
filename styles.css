@@ -1,7 +1,7 @@
 /* star background css */
 
 html {
-    background: radial-gradient(#161622 0%, #090a0f 100%);
+    background: radial-gradient(#0e0e16 0%, #0a0a0a 100%);
     width: 100%;
     height: 100%;
   }
@@ -63,13 +63,14 @@ li {
   flex-direction: row;
   justify-content: space-between;
   position: absolute;
-  margin-left: 30%;
+  margin-left: 28%;
   margin-top: -5%;
 }
 
 .top-nav {
+    font-weight: bold;
     font-size: 20px;
-    margin-right: 110px;
+    margin-right: 100px;
 }
 
 #itchio {
@@ -111,8 +112,7 @@ li {
 
 .h1 {
     color: #8e5fed;
-    font-weight: 500;
-    font-size: 40px;
+    font-size: 38px;
 }
 
 .h2 {
@@ -209,7 +209,7 @@ li {
 
 #theTemple {
     margin-top: 8%;
-    background-color: #151515;
+    background-color: #191919;
     width: 550px;
     height: 470px;
 
@@ -217,14 +217,14 @@ li {
 
 #eerieEscape {
     margin-top: 8%;
-    background-color: #151515;
+    background-color: #191919;
     width: 550px;
     height: 470px;
 }
 
 #TKM {
     margin-top: 5%;
-    background-color: #151515;
+    background-color: #191919;
     width: 550px;
     height: 490px;
     margin-bottom: 5%;
@@ -232,7 +232,7 @@ li {
 
 #reciMeal {
     margin-top: 5%;
-    background-color: #151515;
+    background-color: #191919;
     width: 550px;
     height: 490px;
     margin-bottom: 5%;
@@ -255,8 +255,8 @@ li {
 
 .projectH1 {
     color: #8e5fed;
-    font-weight: 500;
-    font-size: 30px;
+    font-weight: 550;
+    font-size: 27px;
     margin-left: 4%;
 }
 
@@ -283,8 +283,33 @@ li {
 
 /* individual project pages */
 
+.backButton {
+    width: 50px;
+    margin-top: 5%;
+}
+
+.backArrow {
+    rotate: 180deg;
+    margin-top: 4%;
+}
+
+.back {
+    color: white;
+    font-size: 20px;
+    font-weight: 300;
+    margin-left: 27px;
+    margin-top: -27px;
+}
+
+
+.backButton:hover {
+    -webkit-filter: invert(45%) sepia(80%) saturate(3911%) hue-rotate(232deg) brightness(93%) contrast(101%);
+    color: #8e5fed;
+
+}
+
 .projectINFO {
-    background-color: #151515;
+    background-color: #191919;
     border-radius: 5px;
     float: right;
     margin-top: -32.5%;
@@ -304,13 +329,9 @@ li {
 }
 
 .projectVid {
-    margin-top: 8%;
+    margin-top: 4%;
     width: 560px;
     margin-bottom: 8%;
-}
-
-.projectH1 {
-    font-size: 2em;
 }
 
 .projectP {
