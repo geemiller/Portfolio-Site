@@ -325,16 +325,17 @@ li {
     background-color: #212121;
     border-radius: 3px;
     float: right;
-    margin-top: -32.5%;
+    margin-top: -27.5%;
     height: 315px;
     width: 55%;
 }
 
 .itch {
+    float: right;
     font-size: 1.2em;
     -webkit-filter: invert(45%) sepia(80%) saturate(3911%) hue-rotate(232deg) brightness(93%) contrast(101%);
     text-decoration: underline;
-    padding-bottom: 5%;
+    margin-top: -4%;
 }
 
 
@@ -344,9 +345,9 @@ li {
 }
 
 .projectVid {
-    margin-top: 4%;
+    margin-top: 2%;
     width: 560px;
-    margin-bottom: 8%;
+    margin-bottom: 3%;
 }
 
 .projectP {
@@ -355,6 +356,25 @@ li {
     margin-left: 5%;
     margin-right: 5%;
 }
+
+.projectIMG {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 97%; 
+    height: 180px; 
+    background-color: #212121; 
+    padding: 20px; 
+    border-radius: 3px;
+  }
+
+  .space {
+    height: 50px;
+  }
+
+  b {
+    color:#c0a8f2;
+  }
 
 /* the kings meadow page */
 
