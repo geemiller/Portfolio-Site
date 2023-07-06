@@ -367,6 +367,18 @@ li {
     padding: 20px; 
     border-radius: 3px;
   }
+  
+  .projectIMGrm {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 97%; 
+    height: 220px; 
+    background-color: #212121; 
+    padding: 20px; 
+    border-radius: 3px;
+  }
+
 
   .space {
     height: 50px;
