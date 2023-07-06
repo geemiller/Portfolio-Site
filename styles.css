@@ -196,18 +196,35 @@ li {
 
 /* css for experience page */
 
-#eduH1 {
-    margin-top: 8%;
-    font-size: 30px;
+.experience {
+    margin-top: 7%;
+    background-color: #212121;
+    height: 30%;
+    width: 50%;
+    padding: 10px;
+    padding-left: 25px;
+    padding-top: 5px;
+    border-radius: 3px;
+}
+
+.experienceH1 {
+    font-size: 25px;
     color: #c0a8f2;
 }
 
-#uni {
+.experienceP {
+    color: white;
     font-size: 20px;
 }
 
-#uniText {
-    color: white;
+#skills {
+    float: right;
+    width: 35%;
+    margin-top: -23%;
+}
+
+#WE {
+    margin-top: 3%;
 }
 
 /* css for projects page */
@@ -331,7 +348,7 @@ li {
 }
 
 #TKMINFO {
-    height: 350px;
+    height: 370px;
     margin-top: -29%;
     margin-bottom: 3%;
 }
@@ -398,8 +415,3 @@ li {
     width: 560px;
 }
 
-#web {
-    width: 560px;
-    position: absolute;
-    margin-left: 12%;
-}
