@@ -200,7 +200,7 @@ li {
     margin-top: 7%;
     background-color: #212121;
     height: 30%;
-    width: 50%;
+    width: 55%;
     padding: 10px;
     padding-left: 25px;
     padding-top: 5px;
@@ -212,15 +212,22 @@ li {
     color: #c0a8f2;
 }
 
+.experienceH2 {
+    font-size: 19px;
+    color: #ffffff;
+}
+
 .experienceP {
     color: white;
-    font-size: 20px;
+    font-size: 18px;
+    padding-right: 1%;
 }
 
 #skills {
     float: right;
     width: 35%;
-    margin-top: -23.5%;
+    margin-top: -10%;
+    margin-bottom: 5%;
 }
 
 #WE {
