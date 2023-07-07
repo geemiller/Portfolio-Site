@@ -145,9 +145,9 @@
 
 @media screen and (max-width: 768px) {
 
-     .top-nav {
+    .top-nav {
         font-size: 20px;
-        margin-top: -7%;
+        margin-top: -5%;
         margin-left: 20px;
         margin-right: 2%;
     }
@@ -184,6 +184,60 @@
     margin-top: -43%;
 }
 
+.vid {
+    width: 350px;
+}
 
+.projectVid {
+    margin-bottom: 5%;
+}
+
+.project {
+   width: 350px;
+   height: 360px;
+   width: 100%;
+}
+
+#TKMH1 {
+    font-size: 19px;
+}
+
+.projectINFO {
+    height: 345px;
+    margin-top: -50%;
+    margin-bottom: 7%;
+}
+
+.projectH1 {
+    font-size: 19px;
+    padding-right: 2%;
+}
+
+.IMG {
+    width: 320px;
+    height: 190px;
+    margin-bottom: 5%;
+}
+
+.projectIMG {
+    height: 420px;
+    width: 95%;
+    flex-wrap: wrap;
+}
+
+#eerieEscapeINFO {
+    margin-top: -49%;
+    height: 395px;
+}
+
+#TKMINFO {
+    margin-top: -51%;
+    height: 510px;
+    margin-bottom: 12%;
+}
+
+#TKMIMG {
+    height: 420px;
+}
 
 }
