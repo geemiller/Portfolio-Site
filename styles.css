@@ -75,15 +75,15 @@ li {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  position: absolute;
-  margin-left: 28%;
-  margin-top: -5%;
+  margin-left: 27%;
+  margin-top: -7%;
+  width: 50%;
 }
 
 .top-nav {
     font-weight: bold;
     font-size: 20px;
-    margin-right: 100px;
+    margin-right: 40px;
 }
 
 #itchio {
@@ -94,13 +94,22 @@ li {
     padding-top: 2.5%;
 }
 
+#navv {
+    margin-bottom: 5%;
+}
+
+#projectNav {
+    margin-bottom: 5%;
+}
+
 .top-nav:hover {
     color: #8e5fed;
     transform: scale(1.1);
 }
 
-#nav {
+.navigation {
     margin-top: -2%;
+    margin-bottom: 7%;
 }
 
 #buttons {
@@ -108,7 +117,7 @@ li {
   display: flex;
   flex-direction: row;
   float: right;
-  margin-top: -6%;
+  margin-top: -4%;
 }
 
 .button {
@@ -321,7 +330,6 @@ li {
     margin-top: -27px;
 }
 
-
 .backButton:hover {
     -webkit-filter: invert(45%) sepia(80%) saturate(3911%) hue-rotate(232deg) brightness(93%) contrast(101%);
     color: #8e5fed;
@@ -339,7 +347,7 @@ li {
 
 #TKMINFO {
     height: 370px;
-    margin-top: -29%;
+    margin-top: -30%;
     margin-bottom: 3%;
 }
 
@@ -348,7 +356,7 @@ li {
     font-size: 1.2em;
     -webkit-filter: invert(45%) sepia(80%) saturate(3911%) hue-rotate(232deg) brightness(93%) contrast(101%);
     text-decoration: underline;
-    margin-top: -4%;
+    margin-top: -5.5%;
 }
 
 
@@ -376,11 +384,11 @@ li {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    width: 97%; 
     height: 180px; 
     background-color: #212121; 
     padding: 20px; 
     border-radius: 3px;
+    width: 97%;
   }
 
   #reciMealIMG {
