@@ -244,35 +244,17 @@ li {
     width: 100%;
 }
 
-#theTemple {
+.project {
     margin-top: 5%;
-    background-color: #191919;
+    margin-bottom: 5%;
     width: 580px;
     height: 480px;
-
+    background-color: #191919;
 }
+
 
 #eerieEscape {
-    margin-top: 5%;
-    background-color: #191919;
-    width: 580px;
-    height: 480px;
-}
-
-#TKM {
-    margin-top: 5%;
-    background-color: #191919;
-    width: 580px;
-    height: 480px;
-    margin-bottom: 5%;
-}
-
-#reciMeal {
-    margin-top: 5%;
-    background-color: #191919;
-    width: 580px;
-    height: 480px;
-    margin-bottom: 5%;
+    margin-bottom: 0;
 }
 
 
@@ -301,6 +283,7 @@ li {
     color: white;
     padding-top: 1%;
     margin-left: 4%;
+    margin-right: 4%;
 }
 
 .star {

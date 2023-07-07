@@ -1,0 +1,74 @@
+/* css for media queries */ 
+
+@media screen and (max-width: 1024px) {
+    
+    body {
+        margin: 3%;
+    }
+
+    .top-nav {
+        margin-right: 40px;
+        font-size: 20px;
+    }
+
+    #nav-items {
+        margin-left: 25%;
+    }
+
+    .h1 {
+        font-size: 30px;
+    }
+
+    #about {
+        margin-left: 28%;
+        margin-top: -28%;
+    }
+
+    #me {
+        width: 200px;
+        height: auto;
+        margin-top: 15%;
+        margin-left: 2%;
+    }
+
+    .square {
+        width: 200px;
+        height: auto;
+        margin-top: -26%;
+        margin-left: 2.5%;
+    }
+
+#me2 {
+    width: 200px;
+}
+
+#me3 {
+    width: 200px;
+}
+
+.video {
+    width: 420px;
+}
+
+.project {
+   width: 420px;
+   height: 430px;
+}
+
+#projects {
+    margin-top: 6%;
+}
+
+.projectH1 {
+    font-size: 25px;
+}
+
+.projectTxt {
+    padding-right: 6%;
+}
+
+#TKMH1 {
+    font-size: 23px;
+}
+
+}
