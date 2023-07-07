@@ -220,7 +220,7 @@ li {
 #skills {
     float: right;
     width: 35%;
-    margin-top: -23%;
+    margin-top: -23.5%;
 }
 
 #WE {
@@ -238,33 +238,33 @@ li {
 }
 
 #theTemple {
-    margin-top: 8%;
+    margin-top: 5%;
     background-color: #191919;
-    width: 550px;
-    height: 470px;
+    width: 580px;
+    height: 480px;
 
 }
 
 #eerieEscape {
-    margin-top: 8%;
+    margin-top: 5%;
     background-color: #191919;
-    width: 550px;
-    height: 470px;
+    width: 580px;
+    height: 480px;
 }
 
 #TKM {
     margin-top: 5%;
     background-color: #191919;
-    width: 550px;
-    height: 490px;
+    width: 580px;
+    height: 480px;
     margin-bottom: 5%;
 }
 
 #reciMeal {
     margin-top: 5%;
     background-color: #191919;
-    width: 550px;
-    height: 490px;
+    width: 580px;
+    height: 480px;
     margin-bottom: 5%;
 }
 
