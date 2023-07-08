@@ -296,7 +296,8 @@
 @media screen and (max-width: 425px) {
 
 #myName {
-    margin-top: 2%;
+    text-align: center;
+    margin-top: 8%;
     font-size: 20px;
     width: 50px;
 }
@@ -306,19 +307,149 @@
 }
 
 .top-nav {
+    margin-top: -9%;
     font-size: 14px;
-    margin-top: 2%;
-    margin-left: 10px;
-    margin-right: 2%;
+    margin-left: 20px;
+    margin-right: 8%;
 }
 
 #nav-items {
-    float: right;
+    margin-right: 16%;
     width: 60%;
+    text-align: center;
+}
+
+.button {
+    scale: 0.8;
+    margin-right: 0;
 }
 
 
+#about {
+    margin-left: 2%;
+    margin-top: -620px;
+}
 
+#aboutMe {
+    font-size: 15px;
+    width: 390px;
+}
+
+#me {
+    width: 180px;
+    height: auto;
+    margin-top: 100%;
+    margin-left: 25%;
+}
+
+.square {
+    width: 180px;
+    height: auto;
+    margin-top: -56%;
+    margin-left: 24%;
+}
+
+#me2 {
+width: 180px;
+}
+
+#me3 {
+width: 180px;
+}
+
+#projects {
+    margin-left: 6.5%;
+}
+
+.backButton {
+    margin-top: 15%;
+}
+
+.back {
+    scale: 0.8;
+}
+
+.itch {
+    scale: 0.8;
+    margin-right: -6%;
+}
+
+.vid {
+    width: 400px;
+    height: 250px;
+}
+
+.projectINFO {
+    margin-top: 1%;
+    width: 100%;
+    height: 330px;
+}
+
+.projectIMG {
+    width: 90%;
+    height: 820px;
+}
+
+.IMG {
+    margin-left: 5%;
+}
+
+#eerieEscapeINFO {
+    margin-top: 2.5%;
+}
+
+#TKMINFO {
+    margin-top: 2.5%;
+    height: 480px;
+}
+
+#TKMIMG {
+    height: 740px
+}
+
+#reciMealINFO {
+    margin-top: 2.5%;
+    height: 380px;
+}
+
+.RMIMG {
+    height: 200px; 
+    width: auto;
+  }
+
+  #reciMealIMG {
+    height: 450px;
+  }
+
+.experienceH1 {
+    font-size: 16px;
+}
+
+.experienceH2 {
+    font-size: 14px;
+}
+
+.experienceP {
+    font-size: 13px;
+}
+
+#education {
+    width: 90%;
+    margin-top: 80px;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+#skills {
+    margin-right: 5px;
+    margin-top: 15px;
+    width: 90%;
+}
+
+#WE {
+    margin-top: 69%;
+    width: 90%;
+}
 
 
 }
