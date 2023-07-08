@@ -237,7 +237,88 @@
 }
 
 #TKMIMG {
-    height: 420px;
+    height: 380px;
 }
+
+#tkm1, #tkm2, #tkm3, #tkm4 {
+    height: 170px;
+}
+
+.video {
+    width: 350px;
+}
+.project {
+    width: 350px;
+    height: 350px;
+ }
+ 
+ #projects {
+     margin-top: 6%;
+ }
+ 
+ .projectTxt {
+     padding-right: 6%;
+ }
+
+ #reciMealINFO {
+    height: 415px;
+    margin-top: -49.5%;
+}
+
+#skills {
+    margin-top: -18%;
+}
+
+.experienceH1 {
+    font-size: 20px;
+}
+
+.experienceH2 {
+    font-size: 17px;
+}
+
+.experienceP {
+    font-size: 16px;
+}
+
+#education {
+    width: 375px;
+}
+
+#WE {
+    width: 375px;
+}
+
+}
+
+/* phone size */ 
+
+@media screen and (max-width: 425px) {
+
+#myName {
+    margin-top: 2%;
+    font-size: 20px;
+    width: 50px;
+}
+
+#Uni {
+    display: none;
+}
+
+.top-nav {
+    font-size: 14px;
+    margin-top: 2%;
+    margin-left: 10px;
+    margin-right: 2%;
+}
+
+#nav-items {
+    float: right;
+    width: 60%;
+}
+
+
+
+
 
 }
