@@ -543,7 +543,7 @@ width: 180px;
     flex-direction: column;
     align-items: center;
     margin-left: 0;
-    margin-right: 0;
+    margin-right: -5%;
     margin-top: 75%;
     width: 400px;
     height: 370px;
@@ -588,7 +588,7 @@ width: 180px;
 #rm1, #rm2, #rm3, #rm4, #rm5, #rm6 {
     display: flex;
     align-items: center;
-    padding-right: 21px;
+    padding-right: 20px;
     width: 100px;
 }
 
