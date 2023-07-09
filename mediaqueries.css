@@ -560,7 +560,7 @@ width: 180px;
 
 .IMG {
     margin-left: 0;
-    padding-left: 10px;
+    padding-left: 5px;
 }
 
 #eerieEscapeINFO {
@@ -590,7 +590,7 @@ width: 180px;
 #rm1, #rm2, #rm3, #rm4, #rm5, #rm6 {
     display: flex;
     align-items: center;
-    padding-right: 25px;
+    padding-right: 30px;
     width: 90px;
 }
 
