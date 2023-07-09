@@ -329,15 +329,12 @@ li {
     margin-top: -27px;
 }
 
-.backArrow:hover {
-    color:#8e5fed !important;
-}
-
-.back:hover {
+.backButton:hover .backArrow {
     color: #8e5fed !important;
+
 }
 
-.backButton:hover {
+.backButton:hover .back {
     color: #8e5fed !important;
 
 }
