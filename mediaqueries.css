@@ -166,8 +166,8 @@
     }
 
     #footer {
-        position: fixed;
         bottom: 0;
+        font-size: 7px;
     }
 
     #Uni {
@@ -420,6 +420,10 @@ footer {
 /* large phone size */ 
 
 @media screen and (max-width: 425px) {
+
+ footer {
+     font-size: 6px;
+    }
 
 #myName {
     width: 100%;
