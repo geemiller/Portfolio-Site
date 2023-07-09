@@ -590,7 +590,7 @@ width: 180px;
 #rm1, #rm2, #rm3, #rm4, #rm5, #rm6 {
     display: flex;
     align-items: center;
-    padding-right: 20px;
+    padding-right: 25px;
     width: 90px;
 }
 
