@@ -18,6 +18,10 @@ html {
     background: rgba(255, 255, 255, 0.578); 
 }
 
+#Uni {
+    width: 30%;
+}
+
 
   #stars, #stars2, #stars3 {
     width: 100%;
@@ -34,16 +38,6 @@ html {
     height: 2px;
     background: #FFF;
     opacity: 0.8;
-    animation: animStar linear infinite;
-  }
-  
-  @keyframes animStar {
-    from {
-      transform: translateY(0);
-    }
-    to {
-      transform: translateY(-100%);
-    }
   }
   
 

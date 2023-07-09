@@ -1,0 +1,158 @@
+/* TABLET SIZE */ 
+
+@media screen and (max-width: 768px) {
+
+    .top-nav {
+        font-size: 20px;
+        margin-top: -5%;
+        margin-left: 20px;
+        margin-right: 2%;
+    }
+
+    #nav-items {
+        float: right;
+        width: 60%;
+    }
+     
+    #myName {
+        margin-right: 200px;
+        font-size: 29px;
+    }
+
+    #navv {
+        margin-bottom: 2%;
+    }
+
+    #me {
+        width: 200px;
+        height: auto;
+        margin-top: 20%;
+        margin-left: 5%;
+    }
+
+    .square {
+        margin-top: -34%;
+        margin-left: 5%;
+    }
+
+#about {
+    width: 50%;
+    margin-left: 40%;
+    margin-top: -43%;
+}
+
+.vid {
+    width: 350px;
+}
+
+.projectVid {
+    margin-bottom: 5%;
+}
+
+.project {
+   width: 350px;
+   height: 360px;
+   width: 100%;
+}
+
+#TKMH1 {
+    font-size: 19px;
+}
+
+.projectINFO {
+    height: 345px;
+    margin-top: -50%;
+    margin-bottom: 7%;
+}
+
+.projectH1 {
+    font-size: 19px;
+    padding-right: 2%;
+}
+
+.IMG {
+    width: 320px;
+    height: 190px;
+    margin-bottom: 5%;
+}
+
+.projectIMG {
+    height: 420px;
+    width: 95%;
+    flex-wrap: wrap;
+}
+
+#eerieEscapeINFO {
+    margin-top: -49%;
+    height: 395px;
+}
+
+#TKMINFO {
+    margin-top: -51%;
+    height: 510px;
+    margin-bottom: 12%;
+}
+
+#TKMIMG {
+    height: 380px;
+}
+
+#tkm1, #tkm2, #tkm3, #tkm4 {
+    height: 170px;
+}
+
+.video {
+    width: 350px;
+}
+.project {
+    width: 350px;
+    height: 350px;
+ }
+ 
+ #projects {
+     margin-top: 6%;
+ }
+ 
+ .projectTxt {
+     padding-right: 6%;
+ }
+
+ #reciMealINFO {
+    height: 415px;
+    margin-top: -49.5%;
+}
+
+#skills {
+    margin-top: -18%;
+}
+
+.experienceH1 {
+    font-size: 20px;
+}
+
+.experienceH2 {
+    font-size: 17px;
+}
+
+.experienceP {
+    font-size: 16px;
+}
+
+#education {
+    width: 375px;
+}
+
+#WE {
+    width: 375px;
+}
+
+.button:hover {
+    transform: scale(1);
+}
+
+.top-nav:hover {
+    transform: scale(1);
+}
+
+
+}
