@@ -518,6 +518,7 @@ width: 180px;
     justify-content: center;
 }
 
+
 .backButton {
     margin-top: 15%;
 }
@@ -538,27 +539,33 @@ width: 180px;
 }
 
 .projectINFO {
-    margin-top: 72%;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 75%;
     width: 100%;
-    height: 330px;
+    height: 370px;
 }
 
 .projectIMG {
-    width: 90%;
+    justify-content: center;
+    width: 350px;
     height: 820px;
+    margin-left: 0;
+    margin-right: 0;
 }
 
 .IMG {
-    margin-left: 5%;
+    margin-left: 0;
 }
 
 #eerieEscapeINFO {
     margin-top: 72%;
+    height: 450px;
 }
 
 #TKMINFO {
     margin-top: 72%;
-    height: 480px;
+    height: 550px;
 }
 
 #TKMIMG {
@@ -567,7 +574,7 @@ width: 180px;
 
 #reciMealINFO {
     margin-top: 72%;
-    height: 380px;
+    height: 440px;
 }
 
 .RMIMG {
