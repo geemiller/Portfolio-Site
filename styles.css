@@ -146,7 +146,7 @@ li {
     font-size: 20px;
     border: 2px solid #8e5fed;;
     padding: 8px 8px 5px 5px;
-    width: 60px;
+    width: px;
     height: 25px;
     border-radius: 5%;
     margin-top: 0.5%;
@@ -275,7 +275,7 @@ li {
 }
 
 .project:hover .arrow {
-    -webkit-filter: none;
+    color: #ffffff !important;
 }
 
 .projectH1 {
@@ -297,7 +297,7 @@ li {
 }
 
 .arrow {
-    -webkit-filter: invert(45%) sepia(80%) saturate(3911%) hue-rotate(232deg) brightness(93%) contrast(101%);
+    font-size: 30px;
     float: right;
     margin-right: 4%;
     margin-top: -11%;
@@ -315,8 +315,8 @@ li {
 }
 
 .backArrow {
-    rotate: 180deg;
     margin-top: 4%;
+    font-size: 25px;
 }
 
 .back {
@@ -328,7 +328,6 @@ li {
 }
 
 .backButton:hover {
-    -webkit-filter: invert(45%) sepia(80%) saturate(3911%) hue-rotate(232deg) brightness(93%) contrast(101%);
     color: #8e5fed;
 
 }
@@ -349,17 +348,16 @@ li {
 }
 
 .itch {
+    color: #8e5fed;
     float: right;
     font-size: 1.2em;
-    -webkit-filter: invert(45%) sepia(80%) saturate(3911%) hue-rotate(232deg) brightness(93%) contrast(101%);
     text-decoration: underline;
     margin-top: -5.5%;
 }
 
 
 .itch:hover {
-    -webkit-filter: none;
-    color: white;
+    color: #ffffff;
 }
 
 .projectVid {
