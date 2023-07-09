@@ -307,11 +307,12 @@
 @media screen and (max-width: 425px) {
 
 #myName {
+    width: 100%;
     text-align: center;
     margin-top: 8%;
-    font-size: 20px;
-    width: 50px;
-}
+    margin-bottom: 25%;
+        font-size: 25px;
+    }
 
 #Uni {
     display: none;
@@ -319,15 +320,14 @@
 
 .top-nav {
     margin-top: -6%;
-    font-size: 14px;
+    font-size: 15px;
     margin-left: 20px;
     margin-right: 8%;
     margin-bottom: 7%;
 }
 
 #nav-items {
-    margin-right: 16%;
-    width: 60%;
+    width: 100%;
     text-align: center;
 }
 
@@ -589,6 +589,8 @@ width: 180px;
 }
 
 }
+
+/* SMALL PHONE SIZE */
 
 @media screen and (max-width: 320px) {
 
