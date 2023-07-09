@@ -300,6 +300,10 @@
     transform: scale(1);
 }
 
+footer {
+    bottom: 0;
+}
+
 }
 
 /* large phone size */ 
