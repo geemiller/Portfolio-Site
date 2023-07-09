@@ -30,6 +30,7 @@
 
     #buttons {
         margin-top: -5%;
+        margin-right: -3%;
     }
 
     .h1 {
@@ -352,6 +353,10 @@
 
 #TKMIMG {
     height: 380px;
+}
+
+footer {
+    bottom: 0;
 }
 
 #tkm1, #tkm2, #tkm3, #tkm4 {
