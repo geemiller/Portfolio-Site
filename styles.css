@@ -278,6 +278,8 @@ li {
     color: #ffffff !important;
 }
 
+
+
 .projectH1 {
     color: #8e5fed;
     font-weight: 550;
@@ -327,8 +329,16 @@ li {
     margin-top: -27px;
 }
 
+.backArrow:hover {
+    color:#8e5fed !important;
+}
+
+.back:hover {
+    color: #8e5fed !important;
+}
+
 .backButton:hover {
-    color: #8e5fed;
+    color: #8e5fed !important;
 
 }
 

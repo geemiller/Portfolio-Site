@@ -534,10 +534,11 @@ width: 180px;
 .vid {
     width: 400px;
     height: 250px;
+    position: absolute;
 }
 
 .projectINFO {
-    margin-top: 1%;
+    margin-top: 72%;
     width: 100%;
     height: 330px;
 }
@@ -552,11 +553,11 @@ width: 180px;
 }
 
 #eerieEscapeINFO {
-    margin-top: 2.5%;
+    margin-top: 72%;
 }
 
 #TKMINFO {
-    margin-top: 2.5%;
+    margin-top: 72%;
     height: 480px;
 }
 
@@ -565,7 +566,7 @@ width: 180px;
 }
 
 #reciMealINFO {
-    margin-top: 2.5%;
+    margin-top: 72%;
     height: 380px;
 }
 
@@ -708,6 +709,7 @@ width: 180px;
 }
 
 .projectINFO {
+    margin-top: 82%;
     height: 370px;
 }
 
@@ -721,15 +723,18 @@ width: 180px;
 }
 
 #eerieEscapeINFO {
+    margin-top: 82%;
     height: 420px;
 }
 
 #TKMINFO {
+    margin-top: 82%;
     height: 520px;
 }
 
 #reciMealINFO {
     height: 420px;
+    margin-top: 82%;
 }
 
 #education {
@@ -776,7 +781,7 @@ width: 180px;
 }
 
 .itch {
-    width: 100%;
+    width: 70%;
 }
 
 .backButton {
@@ -784,11 +789,15 @@ width: 180px;
 }
 
 .vid {
+    margin-top: 60px;
     width: 300px;
 }
 
 .projectINFO {
+    margin-top: 100%;
     height: 420px;
+    margin-right: 2px;
+    margin-left: 0;
 }
 
 .projectIMG {
@@ -801,11 +810,17 @@ width: 180px;
 }
 
 #eerieEscapeINFO {
+    margin-top: 100%;
     height: 450px;
 }
 
 #TKMINFO {
+    margin-top: 100%;
     height: 580px;
+}
+
+#reciMealINFO {
+    margin-top: 100%;
 }
 
 #tkm1, #tkm2, #tkm3, #tkm4 {
