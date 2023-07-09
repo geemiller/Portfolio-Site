@@ -142,7 +142,118 @@
 }
 
 }
+/* large ipad size */ 
 
+@media screen and (max-width: 840px) {
+
+
+    .top-nav {
+        font-size: 20px;
+        margin-top: -5%;
+        margin-left: 20px;
+        margin-right: 4%;
+        margin-bottom: 60px;
+    }
+
+    #nav-items {
+        margin-top: -7%;
+        float: right;
+        width: 65%;
+    }
+
+    #buttons {
+        margin-right: 2%;
+    }
+
+    #footer {
+        position: fixed;
+        bottom: 0;
+    }
+
+    #Uni {
+        width: 35%;
+    }
+
+    #about {
+        margin-top: -35%;
+        width: 60%;
+        margin-right: 0;
+        margin-left: 35%;
+    }
+
+    #me {
+        margin-top: 15%;
+    }
+
+    .square {
+        margin-top: -31%;
+    }
+
+    .video {
+        width: 370px;
+        margin-right: 0;
+    }
+
+    .project {
+        width: 370px;
+        margin-right: 0;
+        height: 370px;
+    }
+
+    .vid {
+        width: 400px;
+    }
+
+    .projectINFO {
+        width: 48%;
+        margin-top: -44%;
+        height: 370px;
+        margin-bottom: 5%;
+        margin-right: -1%;
+    }
+
+    .IMG {
+        width: 340px;
+        height: 200px;
+        margin-bottom: 5%;
+    }
+    
+    .projectIMG {
+        height: 440px;
+        width: 95%;
+        flex-wrap: wrap;
+    }
+
+    #eerieEscapeINFO {
+        margin-top: -43.5%;
+        height: 440px;
+    }
+
+    #TKMINFO {
+        margin-top: -45%;
+        height: 530px;
+    }
+
+    #TKMIMG {
+        height: 400px;
+    }
+
+    #tkm1, #tkm2, #tkm3, #tkm4 {
+        height: 180px;
+    }
+
+    #reciMealINFO {
+        margin-top: -44%;
+        height: 380px;
+    }
+
+    #skills {
+        margin-top: -19%;
+        margin-right: -1%;
+    }
+
+
+}
 
 /* TABLET SIZE */ 
 
