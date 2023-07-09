@@ -539,8 +539,10 @@ width: 180px;
 }
 
 .projectINFO {
-    align-self: center;
-    margin-left: 10%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 0;
     margin-right: 0;
     margin-top: 75%;
     width: 400px;
@@ -548,8 +550,8 @@ width: 180px;
 }
 
 .projectIMG {
-    justify-content: center;
-    width: 350px;
+    display: flex;
+    width: 360px;
     height: 820px;
     margin-left: 0;
     margin-right: 0;
@@ -582,6 +584,13 @@ width: 180px;
     height: 200px; 
     width: auto;
   }
+
+#rm1, #rm2, #rm3, #rm4, #rm5, #rm6 {
+    display: flex;
+    align-items: center;
+    padding-right: 21px;
+    width: 100px;
+}
 
   #reciMealIMG {
     height: 450px;
