@@ -315,11 +315,17 @@ footer {
     text-align: center;
     margin-top: 8%;
     margin-bottom: 25%;
-        font-size: 25px;
-    }
+    font-size: 28px;
+    margin-left: 0;
+    margin-right: 0;
+}
 
 #Uni {
     display: none;
+}
+
+#email {
+    margin-top: -0.7%;
 }
 
 .top-nav {
@@ -328,6 +334,7 @@ footer {
     margin-left: 20px;
     margin-right: 8%;
     margin-bottom: 10%;
+    width: 100%;
 }
 
 #nav-items {
@@ -371,7 +378,7 @@ footer {
 .square {
     width: 180px;
     height: auto;
-    margin-top: -56%;
+    margin-top: -60%;
     margin-left: 24%;
 }
 
