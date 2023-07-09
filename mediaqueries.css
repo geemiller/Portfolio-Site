@@ -474,6 +474,12 @@ width: 180px;
     font-size: 18px;
 }
 
+#myName {
+    width: 100%;
+    margin-bottom: 25%;
+    font-size: 22px;
+}
+
 #aboutMe {
     width: 92vw;
     text-align: center;
@@ -488,7 +494,6 @@ width: 180px;
 }
 
 #buttons {
-    margin-top: 2%;
     margin-right: -30px;
 }
 
@@ -522,16 +527,14 @@ width: 180px;
 
 .top-nav {
     font-size: 14px;
-    margin-top: -9%;
     margin-left: 10px;
     transform: scale(1);
     margin-bottom: 0;
 }
 
 #nav-items {
-  margin-right: 50px;
-  margin-left: 0;
-  transform: scale(1);
+    width: 100%;
+    margin-right: -10px;
 }
 
 .button {
@@ -541,6 +544,8 @@ width: 180px;
 }
 
 #buttons {
+    justify-content: space-between;
+    width: 100%;
     margin-right: 0;
     margin-left: 0;
     margin-bottom: 5%;
@@ -579,5 +584,99 @@ width: 180px;
     height: 420px;
 }
 
+#education {
+     margin-top: 38%;
+}
+
+}
+
+@media screen and (max-width: 320px) {
+
+#me {
+    margin-top: 400px;
+}
+
+#nav-items {
+    margin-bottom: 10%;
+}
+
+.square {
+    margin-top: -74%;
+    margin-left: 21%;
+}
+
+#photo {
+    margin-right: 20%;
+}
+
+#about {
+    margin-top: -200%;
+}
+
+.video {
+    width: 300px;
+}
+
+#projects {
+    margin-left: 0;
+}
+
+.project {
+    height: 320px;
+}
+
+.itch {
+    width: 100%;
+}
+
+.backButton {
+    transform: scale(0.8)
+}
+
+.vid {
+    width: 300px;
+}
+
+.projectINFO {
+    height: 420px;
+}
+
+.projectIMG {
+    width: 260px;
+}
+
+.IMG {
+    width: 270px;
+    height: 170px;
+}
+
+#eerieEscapeINFO {
+    height: 450px;
+}
+
+#TKMINFO {
+    height: 580px;
+}
+
+#tkm1, #tkm2, #tkm3, #tkm4 {
+    height: 150px;
+}
+
+#education {
+    margin-top: 50%;
+    margin-left: 0;
+    margin-right: 0;
+    width: 265px;
+}
+
+#skills {
+    margin-right: 0;
+    width: 265px;
+}
+
+#WE {
+    margin-top: 97%;
+    width: 265px;
+}
 
 }
