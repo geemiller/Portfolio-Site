@@ -551,6 +551,7 @@ width: 180px;
 
 .projectIMG {
     display: flex;
+    justify-self: center;
     width: 370px;
     height: 820px;
     margin-left: 0;
