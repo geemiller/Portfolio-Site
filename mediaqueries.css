@@ -17,6 +17,20 @@
     #myName {
         margin-top: -3%;
     }
+    
+    #about {
+        margin-top: -15.5%;
+    }
+
+    #me {
+        margin-left: 2%;
+    }
+
+    .square {
+        margin-top: -16%;
+        margin-left: 2%;
+    }
+
 
 }
 
@@ -57,7 +71,6 @@
         margin-top: -9%;
     }
 
- c
 
     .h1 {
         font-size: 30px;
