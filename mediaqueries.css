@@ -31,6 +31,29 @@
         margin-left: 2%;
     }
 
+    /* projects page */
+
+    .video {
+        width: 600px;
+    }
+    
+    .project {
+       width: 600px;
+       height: 500px;
+       margin-right: 8%;
+       margin-left: 5%;
+    }
+    
+    #projects {
+        margin-top: 3%;
+    }
+
+
+    /* project pages */
+    
+
+
+    
 
 }
 
