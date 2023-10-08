@@ -1,3 +1,69 @@
+/* DESKTOP SIZE */
+
+@media screen and (max-width: 2000px) {
+
+    body {
+        margin: 4%;
+    }
+
+    #nav-items {
+        margin-top: -4.5%;
+    }
+
+    #buttons {
+        margin-top: -2.5%;
+    }
+
+    #myName {
+        margin-top: -3%;
+    }
+    
+    #about {
+        margin-top: -15.5%;
+    }
+
+    #me {
+        margin-left: 2%;
+    }
+
+    .square {
+        margin-top: -16%;
+        margin-left: 2%;
+    }
+
+    /* projects page */
+
+    .video {
+        width: 600px;
+    }
+    
+    .project {
+       width: 600px;
+       height: 500px;
+       margin-right: 8%;
+       margin-left: 5%;
+    }
+    
+    #projects {
+        margin-top: 3%;
+    }
+
+
+    /* project pages */
+    
+
+
+    
+
+}
+
+
+
+
+
+
+
+
 /* LAPTOP SIZE */ 
 
 @media screen and (max-width: 1024px) {
@@ -28,10 +94,6 @@
         margin-top: -9%;
     }
 
-    #buttons {
-        margin-top: -5%;
-        margin-right: -3%;
-    }
 
     .h1 {
         font-size: 30px;
