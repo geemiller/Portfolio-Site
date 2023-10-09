@@ -155,7 +155,7 @@ li {
 /* css for about page */
 
 #me {
-    margin-top: 8%;
+    margin-top: 0%;
     border: 2px solid #8e5fed;
     z-index: 1;
     position: relative;
@@ -191,7 +191,6 @@ li {
 #about {
     position: absolute;
     margin-left: 22%;
-    margin-top: -19%;
     font-size: 19px;
     width: 65%;
 
