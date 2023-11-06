@@ -17,6 +17,10 @@
     #myName {
         margin-top: -3%;
     }
+
+    #pics {
+        margin-top: 12%;
+    }
     
     #about {
         margin-top: -15.5%;
@@ -24,6 +28,10 @@
 
     #me {
         margin-left: 2%;
+    }
+
+    #Uni {
+        width: 400px;
     }
 
     .square {
