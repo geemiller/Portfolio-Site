@@ -48,25 +48,31 @@
         margin-top: 3%;
     }
 
+    #education {
+        margin-bottom: 0;
+    }
 
-    /* project pages */
+    #skills {
+        margin-top: -7.5%;
+    }
     
+    .projectINFO {
+        margin-top: -21%;
+        width: 1000px;
+    }
 
+    #TKMINFO {
+        margin-top: -24%;
+    }
 
-    
 
 }
 
 
 
-
-
-
-
-
 /* LAPTOP SIZE */ 
 
-@media screen and (max-width: 1500px) {
+@media screen and (max-width: 1024px) {
     
     body {
        margin: 3%;
@@ -75,19 +81,10 @@
     #Uni {
         width: 29%;
     }
-    
-    #myName {
-        margin-top: 2%;
-    }
 
     .top-nav {
-        margin-top: -5%;
         margin-right: 55px;
         font-size: 19px;
-    }
-
-    #buttons {
-        margin-top: -4%;
     }
 
     #education {
@@ -100,6 +97,7 @@
 
     #nav-items {
         margin-left: 25%;
+        margin-top: -9%;
     }
 
 
@@ -107,16 +105,22 @@
         font-size: 30px;
     }
 
+    #about {
+        margin-left: 28%;
+        margin-top: -28%;
+    }
 
     #me {
         width: 200px;
         height: auto;
+        margin-top: 15%;
         margin-left: 2%;
     }
 
     .square {
         width: 200px;
         height: auto;
+        margin-top: -26%;
         margin-left: 2.5%;
     }
 
@@ -126,11 +130,6 @@
 
 #me3 {
     width: 200px;
-}
-
-#about {
-    margin-left: 28%;
-    margin-top: -25%;
 }
 
 .video {
