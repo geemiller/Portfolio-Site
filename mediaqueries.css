@@ -351,7 +351,7 @@
 
     .top-nav {
         font-size: 20px;
-        margin-top: -5%;
+        margin-top: -8%;
         margin-left: 20px;
         margin-right: 2%;
     }
@@ -362,8 +362,13 @@
     }
      
     #myName {
+        margin-top: 1%;
         margin-right: 200px;
         font-size: 29px;
+    }
+
+    #buttons {
+        margin-top: -6%;
     }
 
     #me {
@@ -384,6 +389,17 @@
     margin-top: -43%;
 }
 
+.video {
+    width: 430px;
+    margin-right: 0;
+}
+
+.project {
+    width: 430px;
+    margin-right: 0;
+    height: 380px;
+}
+
 .vid {
     width: 350px;
 }
@@ -392,18 +408,12 @@
     margin-bottom: 5%;
 }
 
-.project {
-   width: 350px;
-   height: 360px;
-   width: 100%;
-}
-
 #TKMH1 {
     font-size: 19px;
 }
 
 .projectINFO {
-    height: 345px;
+    height: 400px;
     margin-top: -50%;
     margin-bottom: 7%;
 }
@@ -427,7 +437,7 @@
 
 #eerieEscapeINFO {
     margin-top: -49%;
-    height: 395px;
+    height: 435px;
 }
 
 #TKMINFO {
@@ -448,13 +458,6 @@ footer {
     height: 170px;
 }
 
-.video {
-    width: 350px;
-}
-.project {
-    width: 350px;
-    height: 350px;
- }
  
  #projects {
      margin-top: 6%;
