@@ -242,6 +242,10 @@
         margin-right: 2%;
     }
 
+    #myName {
+        margin-top: 1%;
+    }
+
     #footer {
         bottom: 0;
         font-size: 7px;
