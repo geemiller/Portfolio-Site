@@ -266,15 +266,20 @@
         margin-top: -31%;
     }
 
+    #projects {
+        display: flex;
+        justify-content: center;
+    }
+
     .video {
-        width: 370px;
+        width: 500px;
         margin-right: 0;
     }
 
     .project {
-        width: 370px;
+        width: 500px;
         margin-right: 0;
-        height: 370px;
+        height: 430px;
     }
 
     .vid {
