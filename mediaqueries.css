@@ -91,8 +91,11 @@
     }
 
     .top-nav {
-        margin-right: 55px;
-        font-size: 19px;
+        font-size: 17px;
+    }
+
+    #myName {
+        margin-top: 0;
     }
 
     #education {
@@ -104,10 +107,14 @@
     }
 
     #nav-items {
-        margin-left: 25%;
-        margin-top: -9%;
+        margin-top: -9.5%;
+        width: 42%;
     }
 
+    #buttons {
+        margin-top: -4.5%;
+    }
+    
 
     .h1 {
         font-size: 30px;
@@ -141,12 +148,13 @@
 }
 
 .video {
-    width: 420px;
+    width: 400px;
 }
 
 .project {
-   width: 420px;
+   width: 400px;
    height: 400px;
+   margin-right: 0;
 }
 
 #projects {
