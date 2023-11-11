@@ -76,6 +76,129 @@
 
 }
 
+/* large laptop size */
+
+@media screen and (max-width: 1500px) {
+
+.top-nav {
+    margin-top: 0;
+}
+
+#nav-items {
+    margin-top: -7.5%;
+    width: 45%;
+}
+
+#about {
+    margin-left: 28%;
+    margin-top: -23%;
+}
+
+#me {
+    width: 250px;
+    height: auto;
+    margin-top: 5%;
+    margin-left: 2%;
+}
+
+.square {
+    width: 250px;
+    height: auto;
+    margin-top: -23%;
+    margin-left: 2.5%;
+}
+
+#me2 {
+width: 250px;
+}
+
+#me3 {
+width: 250px;
+}
+
+.video {
+    width: 550px;
+} 
+
+.project {
+   width: 550px;
+   height: 500px;
+   margin-right: 0;
+   margin-left: 0;
+}
+
+   #projects {
+    margin-top: 6%;
+}
+
+.projectH1 {
+    font-size: 23px;
+}
+
+.projectTxt {
+    padding-right: 6%;
+}
+
+#TKMH1 {
+    font-size: 23px;
+}
+
+/* the temple */
+
+.vid {
+    width: 530px;
+    margin-top: 5%;
+}
+
+.projectINFO {
+    width: 55%;
+    margin-top: -27.5%;
+}
+
+.projectP {
+    font-size: 18px;
+}
+
+.IMG {
+    width: 270px;
+    height: 170px;
+}
+
+.projectIMG {
+    height: 155px;
+    width: 96%;
+}
+
+.RMIMG {
+    height: 220px; 
+  }
+
+#eerieEscapeINFO {
+    margin-top: -30%;
+    height: 370px;
+    margin-bottom: 8%;
+}
+
+#TKMINFO {
+    margin-top: -30%;
+    height: 440px;
+    margin-bottom: 8%;
+}
+
+
+#reciMealINFO {
+    height: 350px;
+    margin-top: -29%;
+    margin-bottom: 5%;
+}
+
+#skills {
+    margin-top: -10%;
+}
+
+
+}
+
 
 
 /* LAPTOP SIZE */ 
