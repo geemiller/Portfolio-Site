@@ -185,6 +185,11 @@ width: 250px;
     margin-bottom: 8%;
 }
 
+#harmonyRealmsINFO {
+    height: 350px;
+    margin-bottom: 5%;
+}
+
 
 #reciMealINFO {
     height: 350px;
@@ -458,6 +463,11 @@ width: 250px;
         height: 440px;
     }
 
+    #harmonyRealmsINFO {
+        margin-top: -43.5%;
+        height: 400px;
+    }
+
     #TKMINFO {
         margin-top: -45%;
         height: 530px;
@@ -583,6 +593,7 @@ width: 250px;
     height: 435px;
 }
 
+
 #TKMINFO {
     margin-top: -51%;
     height: 510px;
@@ -610,7 +621,7 @@ footer {
      padding-right: 6%;
  }
 
- #reciMealINFO {
+ #reciMealINFO,  #harmonyRealmsINFO {
     height: 415px;
     margin-top: -49.5%;
 }
@@ -804,7 +815,7 @@ width: 180px;
     height: 740px
 }
 
-#reciMealINFO {
+#reciMealINFO,  #harmonyRealmsINFO {
     margin-top: 75%;
     height: 440px;
 }
@@ -978,7 +989,7 @@ width: 180px;
     height: 520px;
 }
 
-#reciMealINFO {
+#reciMealINFO,  #harmonyRealmsINFO {
     height: 420px;
     margin-top: 82%;
 }
@@ -1069,7 +1080,7 @@ width: 180px;
     height: 580px;
 }
 
-#reciMealINFO {
+#reciMealINFO,  #harmonyRealmsINFO {
     margin-top: 100%;
 }
 
