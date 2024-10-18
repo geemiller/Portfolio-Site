@@ -1,5 +1,5 @@
 let download = document.getElementById("CV");
-let CVPath = 'GeorgiaMillerCVNov23.pdf';
+let CVPath = 'GeorgiaMillerCVOct24.pdf';
 
 download.addEventListener('click', () => {
     let fileName = getFileName(CVPath);
