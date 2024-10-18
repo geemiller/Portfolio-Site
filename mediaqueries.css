@@ -185,6 +185,11 @@ width: 250px;
     margin-bottom: 8%;
 }
 
+#harmonyRealmsINFO {
+    height: 370px;
+    margin-bottom: 5%;
+}
+
 
 #reciMealINFO {
     height: 350px;
@@ -354,7 +359,7 @@ width: 250px;
 }
 
 #skills {
-    margin-top: -13%;
+    margin-top: -15.5%;
 }
 
 }
@@ -458,6 +463,11 @@ width: 250px;
         height: 440px;
     }
 
+    #harmonyRealmsINFO {
+        margin-top: -43.5%;
+        height: 480px;
+    }
+
     #TKMINFO {
         margin-top: -45%;
         height: 530px;
@@ -533,14 +543,14 @@ width: 250px;
 }
 
 .video {
-    width: 430px;
+    width: 500px;
     margin-right: 0;
 }
 
 .project {
-    width: 430px;
+    width: 500px;
     margin-right: 0;
-    height: 380px;
+    height: 420px;
 }
 
 .vid {
@@ -583,6 +593,7 @@ width: 250px;
     height: 435px;
 }
 
+
 #TKMINFO {
     margin-top: -51%;
     height: 510px;
@@ -611,8 +622,14 @@ footer {
  }
 
  #reciMealINFO {
-    height: 415px;
+    height: 435px;
     margin-top: -49.5%;
+}
+
+#harmonyRealmsINFO
+{
+    height: 455px;
+    margin-top: -50%;
 }
 
 #skills {
@@ -770,7 +787,6 @@ width: 180px;
     flex-direction: column;
     align-items: center;
     margin-left: 0;
-    margin-right: -10%;
     margin-top: 75%;
     width: 400px;
     height: 370px;
@@ -806,7 +822,13 @@ width: 180px;
 
 #reciMealINFO {
     margin-top: 75%;
-    height: 440px;
+    height: 460px;
+}
+
+#harmonyRealmsINFO
+{
+    margin-top: 75%;
+    height: 480px;
 }
 
 .RMIMG {
@@ -888,9 +910,31 @@ width: 180px;
 #buttons {
     margin-right: -30px;
 }
+ /**/
 
-#projects {
-    margin-left: 3px;
+ #TFNH1, #TKMH1 {
+    font-size: 15px;
+ }
+
+ .projectH1 {
+    font-size: 15px;
+ }
+
+.video {
+    width: 320px;
+}
+
+.project {
+    height: 300px;
+    width: 320px;
+}
+
+#astroInsightVideo {
+    height: 200px;
+}
+
+.projectTxt {
+    font-size: 13px;
 }
 
 #eerieEscape {
@@ -951,35 +995,57 @@ width: 180px;
 }
 
 .vid {
-    width: 350px;
+    width: 330px;
+    height: 250px;
+    margin-left: 3%;
+    margin-top: 10%;
 }
 
 .projectINFO {
-    margin-top: 82%;
-    height: 370px;
+    margin-top: 90%;
+    height: 270px;
+}
+
+.projectP {
+    font-size: 13px;
 }
 
 .projectIMG {
-    width: 89%;
+    width: 85%;
+    margin-left: 2%;
 }
 
 .IMG {
-    width: 320px;
-    margin-left: -5px;
+    width: 300px;
+    margin-left: -6%;
+}
+
+#astroInsightIMG {
+    height: 675px;
 }
 
 #eerieEscapeINFO {
     margin-top: 82%;
-    height: 420px;
+    height: 320px;
 }
 
 #TKMINFO {
     margin-top: 82%;
-    height: 520px;
+    height: 400px;
 }
 
 #reciMealINFO {
     height: 420px;
+    margin-top: 82%;
+}
+
+#harmonyRealmsINFO {
+    height: 350px;
+    margin-top: 82%;
+}
+
+#theTempleINFO {
+    height: 300px;
     margin-top: 82%;
 }
 
@@ -1027,7 +1093,7 @@ width: 180px;
 }
 
 .project {
-    height: 320px;
+    height: 290px;
 }
 
 .itch {
@@ -1043,6 +1109,11 @@ width: 180px;
     width: 300px;
 }
 
+.projectVid {
+    width: 150px;
+    margin-left: -3%;
+}
+
 .projectINFO {
     margin-top: 100%;
     height: 420px;
@@ -1051,27 +1122,59 @@ width: 180px;
 }
 
 .projectIMG {
-    width: 260px;
+    width: 250px;
 }
 
 .IMG {
     width: 270px;
     height: 170px;
+    margin-left: -10%;
 }
 
-#eerieEscapeINFO {
-    margin-top: 100%;
-    height: 450px;
+#astroInsightIMG {
+    height: 1200px;
 }
 
-#TKMINFO {
-    margin-top: 100%;
-    height: 580px;
+.AIIMG {
+    margin-left: 20%;
+    margin-bottom: 5%;
 }
 
-#reciMealINFO {
+#reciMealINFO 
+{
     margin-top: 100%;
 }
+
+#harmonyRealmsINFO, #eerieEscapeINFO
+{
+    margin-top: 100%; 
+    height: 420px;
+    width: 98%;
+}
+
+#TKMINFO 
+{
+    margin-top: 100%; 
+    height: 480px;
+    width: 98%;
+}
+
+
+#theTempleINFO, #TFNINFO
+{
+    margin-top: 100%; 
+    height: 360px;
+    width: 98%;
+}
+
+#astroInsightINFO
+{
+    margin-top: 100%; 
+    height: 320px;
+    width: 98%;
+}
+
+
 
 #tkm1, #tkm2, #tkm3, #tkm4 {
     height: 150px;
