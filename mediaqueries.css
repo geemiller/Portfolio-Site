@@ -74,6 +74,7 @@
     }
 
 
+
 }
 
 /* large laptop size */
@@ -188,6 +189,11 @@ width: 250px;
 #harmonyRealmsINFO {
     height: 370px;
     margin-bottom: 5%;
+}
+
+#newHarmonyRealmsINFO {
+    height: 530px;
+    margin-top: -29%;
 }
 
 
@@ -358,6 +364,13 @@ width: 250px;
     margin-top: -38%;
 }
 
+#newHarmonyRealmsINFO {
+    height: 550px;
+    margin-top: -40%;
+}
+
+
+
 #skills {
     margin-top: -15.5%;
 }
@@ -467,6 +480,12 @@ width: 250px;
         margin-top: -43.5%;
         height: 480px;
     }
+
+    #newHarmonyRealmsINFO {
+    height: 660px;
+    margin-top: -55%;
+}
+
 
     #TKMINFO {
         margin-top: -45%;
@@ -591,6 +610,11 @@ width: 250px;
 #eerieEscapeINFO {
     margin-top: -49%;
     height: 435px;
+}
+
+#newHarmonyRealmsINFO {
+    height: 680px;
+    margin-top: -60%;
 }
 
 
@@ -831,6 +855,12 @@ width: 180px;
     height: 480px;
 }
 
+#newHarmonyRealmsINFO
+{
+    margin-top: 75%;
+    height: 650px;
+}
+
 .RMIMG {
     height: 200px; 
     width: auto;
@@ -1002,6 +1032,7 @@ width: 180px;
 }
 
 .projectINFO {
+    width: 97.5%;
     margin-top: 90%;
     height: 270px;
 }
@@ -1026,12 +1057,12 @@ width: 180px;
 
 #eerieEscapeINFO {
     margin-top: 82%;
-    height: 320px;
+    height: 340px;
 }
 
 #TKMINFO {
     margin-top: 82%;
-    height: 400px;
+    height: 420px;
 }
 
 #reciMealINFO {
@@ -1040,9 +1071,15 @@ width: 180px;
 }
 
 #harmonyRealmsINFO {
-    height: 350px;
+    height: 370px;
     margin-top: 82%;
 }
+
+#newHarmonyRealmsINFO {
+    height: 570px;
+    margin-top: 82%;
+}
+
 
 #theTempleINFO {
     height: 300px;

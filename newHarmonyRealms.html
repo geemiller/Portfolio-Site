@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial=scale=1">
+        <link href="styles.css" type="text/css" rel="stylesheet">
+        <link href="animation.css" type="text/css" rel="stylesheet">
+        <link href="mediaqueries.css" type="text/css" rel="stylesheet">
+        <title>Georgia Miller Portfolio</title>
+        <link rel="icon" type="image/x-icon" href="/resources/favicon.ico">
+        <script src="https://kit.fontawesome.com/5da9ce64bc.js" crossorigin="anonymous"></script>
+    </head>
+        <header class="topBar">
+            <h1 class="h1" id="myName"><a href="index.html">Georgia Miller</a></h1>
+            <h2 class="h2" id="Uni">MSc Game Programming Student at Falmouth University</h2>
+            <nav id="nav" class="navigation">
+                <ul id="nav-items">
+                    <li class="top-nav"><a href="index.html">About</a></li>
+                <li class="top-nav"><a href="projects.html">Projects</a></li>
+                <li class="top-nav"><a href="experience.html">Experience</a></li>
+                </ul>
+          <ul id="buttons">
+            <a href="https://www.linkedin.com/in/georgia-miller-622889204/"><li class="button fa-brands fa-linkedin" id="linkedin" style="color: #8e5fed;"></li></a>
+            <a href="https://georgiamiller.itch.io"><li class="button fa-brands fa-itch-io" id="itchio" style="color: #8e5fed;"></li></a>
+            <a href="mailto:lpsgeorgia1@gmail.com"><li class="button fa-solid fa-envelope" id="email" style="color: #8e5fed;"></li></a>
+            <!--<li class="button fa-solid fa-arrow-down" id="CV" style="color: #8e5fed;">  CV    </li>
+            <li class="button" id="github"><a href="https://github.com/geemiller"><img src="resources/github.png" width="40" height="auto" alt="GitHub icon"></a></li>-->
+            </ul>
+            </nav>
+        </header>
+        <body>
+            <main>
+                <section class="backButton">
+                <a href="projects.html"><i class="backArrow fa-solid fa-angle-left" style="color: #ffffff"></i><h1 class="back">Back</h1></a>
+                </section>
+
+                <a href="https://georgiamiller.itch.io/harmony-realms" class="itch">View and download original game on itch.io  <img src="resources/share.png" width="25" height="auto"></a>
+
+                <section id="newHarmonyRealmsVID" class="projectVid">
+                    <iframe class="vid" width="560" height="315" src="https://www.youtube.com/embed/DcMybftBxio?si=fNZZdEiigWXv4-mL" title="YouTube video player" frameborder="0"></iframe>
+                </section>
+
+                <section id="newHarmonyRealmsINFO" class="projectINFO">
+                    <h1 class="projectH1">Updated Harmony Realms - Masters Project</h1>
+                    <p class="projectP">For my MSc final project, I expanded my 3D music theory education game Harmony Realms to include <b>personalisation and reflective feedback.</b><br><br>
+                                        This project aimed to find out what extent these additions had on player <b>learning and enjoyment</b> of music theory compared to the original game.<br><br>
+                                        Using the 'Scale Construction' level, I developed <b>5 alternate level versions</b> corresponding with the Big 5 personality types, the player is assigned a personality type by completing the Mini-IPIP quiz at the start of the game.<br><br>
+                                        These level variations range from time of day and colour scheme, forest and puzzle layout design, and mascot personality, such as the tone and wording of the level’s instructions, learning sign information, positive reinforcement, and how the reflective feedback is given to the player.<br><br>
+                                        The reflective feedback mechanic was implemented to provide players with <b>specific guidance</b> after an unsuccessful attempt at the puzzle, helping learners <b>understand and improve</b> upon their mistakes. 
+              </section>
+                   <div id="harmonyRealmsIMG" class="projectIMG">
+                    <img id="harmonyRealms1" class="IMG" src="resources/newHR1.png" width="300" height="175">
+                    <img id="harmonyRealms2" class="IMG" src="resources/newHR2.png" width="300" height="175">
+                    <img id="harmonyRealms3"  class="IMG" src="resources/newHR3.png" width="300" height="175">
+                    <img id="harmonyRealms4" class="IMG" src="resources/newHR4.png" width="300" height="175">
+                </div>
+ 
+                <div class="space"></div>
+ 
+            </main>
+            
+            <div class="star" id="stars"></div>
+            <div class="star" id="stars2"></div>
+            <div class="star" id="stars3"></div>
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.0/FileSaver.min.js"></script>
+        <script src="main.js"></script>
+        </body>
+        <footer>
+            <p id="footer">Designed and built by Georgia Miller.<br>
+             All rights reserved. © <br><br></p>
+         </footer>
+</html>

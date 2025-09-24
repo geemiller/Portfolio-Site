@@ -354,6 +354,12 @@ li {
     margin-bottom: 3%;
 }
 
+#newHarmonyRealmsINFO {
+    height: 450px;
+    margin-top: -25%;
+    margin-bottom: 3%;
+}
+
 .itch {
     color: #8e5fed;
     float: right;
